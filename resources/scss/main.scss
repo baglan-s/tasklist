@@ -1,0 +1,17 @@
+@import "~bootstrap";
+@import "colors";
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+.main {
+    min-height: 100vh;
+    background-color: $bgGray;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    position: relative;
+}
+
+.head-actions {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
